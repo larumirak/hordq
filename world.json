@@ -1,0 +1,87 @@
+{
+  "name": "hotdq",
+  "title": "Hoard of the Dragon Queen",
+  "description": "<h2>Campaign Overview</h2>\n<p>Tyranny of Dragons tells an epic story spanning two adventures, <strong>Hoard of the Dragon Queen</strong> and <strong>The Rise of Tiamat</strong>&mdash;the two tales contained within this collection. Both adventures are introduced here, outlining their backgrounds, plots, and fundamental ties, followed by details on allies and villains relevant to both adventures. Regardless of which adventure you're running, this overview provides useful information, applicable to the wider campaign and helpful for foreshadowing the threats unleashed by the Cult of the Dragon.</p>\n<p>Tyranny of Dragons is set in the Forgotten Realms on Faer&ucirc;n's western shore&mdash;the Sword Coast. A thin strip of civilization stretches down this coast, where widely spaced cities are arranged like beads on a string. Roads loosely connect the cities that stretch from Luskan in the north to Calimport in the south, passing through Neverwinter, Waterdeep, Baldur's Gate, and other ports along the way. The bulk of this adventure takes place on the stretch between Baldur's Gate and Neverwinter.</p>\n<p><strong>Adventure Supplements</strong>. You can play this adventure with just the Dungeons &amp; Dragons basic rules and the Tyranny of Dragons appendix online, which contains all the monsters and magic items not described in this book. Both of these supplements are available as free downloads on DungeonsandDragons.com.</p>\n<p>&nbsp;</p>\n<h4>Product Information</h4>\n<blockquote>\n<p>System:&nbsp;<strong>D&amp;D 5E&nbsp;</strong></p>\n<p>Starting Level:&nbsp;<strong>Low (7-20)</strong></p>\n<p>Length:&nbsp;<strong>Long Campaign (Part 1 of 2 of Tyranny of Dragons)</strong></p>\n</blockquote>\n<p>&nbsp;</p>\n<hr />\n<p><strong>DISCLAIMER:</strong>&nbsp;The use of this is meant for use for your personal use, and only if you legally possess such in accordance with your local laws.</p>\n<h6>Imported from Roll20 using R20Converter</h6>\n<hr />",
+	"version": "0.1.2",
+	"coreVersion": "0.6.6",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.7.0",
+	"scripts": ["./checkdependencies.js"],
+	"dependencies": [
+		{
+			"name": "plutonium",
+			"manifest": "https://get.5e.tools/plutonium/module.json",
+			"version": "1.7.0",
+			"author": "Giddy"
+		},
+		{
+			"name": "DancingLights",
+			"manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-DancingLights/master/module.json",
+			"version": "2.1.5",
+			"author": "Blitzkraig"
+		},
+		{
+			"name": "multilevel-tokens",
+			"manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/v0.3.0/module.json",
+			"version": "0.4.0",
+			"author": "grandseiken"
+		},
+		{
+			"name": "parallaxia",
+			"manifest": "https://gitlab.com/reichler/parallaxia/raw/master/parallaxia/module.json",
+			"version": "0.2.9",
+			"author": "wonko"
+		},
+		{
+			"name": "teleport",
+			"manifest": "https://raw.githubusercontent.com/knassher/FVTT-Teleport/master/module.json",
+			"version": "2.1.7",
+			"author": "knassher"
+		},
+		{
+			"name": "Token HUD Wildcard",
+			"manifest": "https://raw.githubusercontent.com/javieros105/FVTT-TokenHUDWildcard/master/token-hud-wildcard/module.json",
+			"version": "1.0.0",
+			"author": "javieros"
+		}
+	],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "authors": [
+    "WotC",
+    "Roll20",
+    "5eTools",
+    "R20Converter"
+  ],
+  "keywords": [
+		"adventure",
+		"campaign",
+		"forgotten realms",
+		"content packs"
+  ],
+  "socket": false,
+  "license": "",
+	"system": "dnd5e",
+	"systemVersion": 0.96,
+	"minimumSystemVersion": "0.90",
+	"compatibleSystemVersion": "0.96",
+	"readme": "README.md",
+	"bugs": "",
+	"url": "",
+	"changelog": "https://wiki.5e.tools/index.php/Foundry:Changelog_Adventures",
+	"manifest": "https://foundry.5e.tools/plutonium/hotdq/world.json",
+	"download": "https://foundry.5e.tools/plutonium/hotdq/hotdq.zip",
+  "id": "hotdq",
+  "unavailable": false,
+  "availability": 0,
+  "background": "worlds/hotdq/scenes/backgrounds/StartLogin.png",
+  "nextSession": ""
+}
